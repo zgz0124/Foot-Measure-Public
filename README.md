@@ -1,11 +1,7 @@
 # foot-measure
 
-## 一、脚型测量项目概述：（详细建流程图）
-> 目前完成后处理部分：
-  - 编码点识别
-  - icp矫正外参标定精度
-  - 点云、网格处理
-  - 尺寸提取
+## 一、脚型测量项目概述：
+> 简要流程图
 <div align=center><img src="https://github.com/Mr-ZhuJun/foot-measure/blob/main/Reference/目前工作.png" width="800px"></div>
 
 ## 二、项目背景：
